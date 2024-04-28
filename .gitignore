@@ -1,2 +1,6 @@
 /session_token.txt
 /Shoonya API _ Web Socket.mp4
+
+*.ini
+*.log
+*.mp4
